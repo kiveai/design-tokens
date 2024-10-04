@@ -9,6 +9,8 @@ import { PluginMessage } from '../types/pluginEvent'
 import { exportRawTokenArray } from './utilities/getTokenJson'
 import { stringifyJson } from './utilities/stringifyJson'
 
+// Hello olga
+
 // initiate UI
 figma.showUI(__html__, {
   themeColors: true,
